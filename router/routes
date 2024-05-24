@@ -1,0 +1,5 @@
+In begining taht was dart file and app used declarative way of navigation , now here description of routes
+
+Registartion() -- Registartion and Login page  ('/mirea_messenger/lib/authentication.dart')
+Dialogs() -- chats, profile, settings of current app youser ('/mirea_messenger/lib/massenger_diallogs_screen.dart')
+
