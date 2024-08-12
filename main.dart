@@ -7,9 +7,7 @@ import 'package:mirea_messenger/features/conection_check.dart';
 import 'package:mirea_messenger/themes/theme_provider.dart';
 import 'package:mirea_messenger/themes/themes.dart';
 import 'package:provider/provider.dart';
-//TODO:зарегать провайдер тем
-//TODO: регать фактори
-//fix conection chek for web version
+
 
 
 void main() async{
@@ -61,7 +59,7 @@ class _MyAppState extends State<MyApp> {
       return DarkThemeModes;
     }
   }
-  //TODO:change theme value on function
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
